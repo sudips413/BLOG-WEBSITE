@@ -1,0 +1,4 @@
+.single {
+    direction: flex;
+    flex-direction: row;
+}
